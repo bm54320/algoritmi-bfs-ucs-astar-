@@ -4,4 +4,4 @@ Upotreba bfs, ucs i astar algoritma
 
 Kod jos provjerava:
 1. Je li heuristicka funkcija optimisticna? 
-2. Je li heuristicka funkcija konzistentna? ž
+2. Je li heuristicka funkcija konzistentna? 
